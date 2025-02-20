@@ -1,7 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
+tibetan,Tibetan,,,,,
+wylie,Wylie,,,,,
+chinese,Chinese,,,,,
+pinyin,Pinyin,,,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
@@ -11,5 +14,6 @@ source,Source,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
+creator,Creator,,,DCTERMS.creator,creator
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
