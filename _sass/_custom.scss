@@ -2,3 +2,69 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+.container, .container-fluid {
+    margin: 0px;
+    padding: 0px;
+}
+
+.my-4 {
+    margin: 0px !important;
+    // padding: 15px;
+}
+
+.container-top, .container-top h1, .container-top p {
+    width: 100vw;
+    background-color: #3d62a0;
+    color: white;
+    margin: 0px;
+}
+
+.mt-2 {
+    margin-top: 0px !important;
+    padding: 15px;
+}
+
+h1 a, h1 a:hover {
+    color: white;
+}
+
+.navbar {
+    background-color: #143a60 !important;
+    padding: 0px;
+    width: 100vw;
+}
+
+.nav-item {
+    padding: 5px;
+}
+
+.nav-item:hover {
+    background-color: rgb(87, 119, 175);
+}
+
+#search-nav:hover {
+    background-color: #143a60;
+}
+
+#search-nav {
+    padding-top: 8px;
+    padding-left: 20px;
+}
+
+.about-contents {
+    
+}
+
+#dataDownloadButton {
+    background-color: #143a60;
+    border-color: #143a60;
+    margin: 10px;
+    border-width: 3px;
+    font-weight: bold;
+}
+
+#dataDownloadButton:hover {
+    background-color: white;
+    color: #143a60;
+}
