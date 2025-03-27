@@ -7,6 +7,8 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
+{% include collection-nav.html %}
+
 ## Browse Locations
 
 Use this word cloud visualization to browse locations.
