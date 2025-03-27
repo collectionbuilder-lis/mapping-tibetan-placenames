@@ -12,6 +12,8 @@ credits: true
 
 <!-- {% include feature/image.html objectid="001" %} -->
 
+<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7823:g7823t:2015587146C/full/pct:12.5/0/default.jpg" id="loc-map">
+
 ## About the Collection
 
 "Mapping Tibetan Placenames" is a digital initiative aimed at documenting and standardizing the diverse names used for places across the Tibetan Plateau. In the multilingual context of Tibetan, English, and Chinese, placenames often vary significantly in spelling, pronunciation, and usage. This project seeks to bring consistency to these geographic names, providing a comprehensive resource for researchers, linguists, and anyone interested in the geographic and cultural landscape of Tibet.
@@ -33,4 +35,4 @@ The resulting static site can be hosted on any basic web server.
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information. -->
 
-{% include feature/image.html objectid="001" width="75" %} 
+<!-- {% include feature/image.html objectid="001" width="75" %}  -->
