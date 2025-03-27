@@ -4,4 +4,6 @@ layout: search
 permalink: /search/
 ---
 
-## Full metadata search:
+{% include collection-nav.html %}
+
+## Full Metadata Search
